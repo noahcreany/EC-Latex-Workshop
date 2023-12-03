@@ -1,4 +1,4 @@
-# Ecology Workshop: Latex Demo
+# Ecology Center Workshop: Latex Demo
 ## Part 1: Iree
 ### What is LaTex:
   - A tool for typesetting professional-looking documents.
