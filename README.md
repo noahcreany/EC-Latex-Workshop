@@ -39,7 +39,8 @@ _ If collaborators or co-authors are not comfortable providing comments in a PDF
 
 ## Part 2: Noah (Demonstrations of Basics)
 ### USU Thesis Template
-    - Figures
-    - Version History
-    - BibTex/Citations
-    - Submission
+
+- Figures
+- Version History
+- BibTex/Citations
+- Submission
