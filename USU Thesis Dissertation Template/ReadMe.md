@@ -7,7 +7,7 @@ Last modified:
 
 This directory contains the files necessary to create a USU Thesis or Dissertation in according to the Graduate School’s style requirements. The main file that is processed with LaTeX is `thesis.tex`. Please read the comments in the file to see how you can modify the behavior of LaTeX for your specific needs (MS Plan A, Plan B, etc.). LaTeX has a lot of *moving parts*, but the diagram below illustrates how the files and processes interact.
 ```mermaid
-flowchart LR
+    graph LR;
 
 A[LaTeX]-->files[thesis.tex
                   abstract.tex
@@ -16,12 +16,21 @@ A[LaTeX]-->files[thesis.tex
                   appendix.tex
                   chpt_1.tex
                   chpt_2.tex
-                  chpt_3.tex] -->B{Compiler}
-                  B-->E[PDF]
+                  chpt_3.tex] -->B{Compiler};
+                  B-->E[PDF];
     
 C[Bibtex]-->bibs[references.bib
-                 biblatex style]-->B
-D[Style]--usuthesis.cls-->B
+                 biblatex style]-->B;
+D[Style]--usuthesis.cls-->B;
+```
+
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
 ```
 
 Note that the example document gives several style examples, such as how to reference figures, tables, equations, and other things.  It also shows how to format citations for use in the References section. The latest revision also includes the new requirement for a "public abstract."
