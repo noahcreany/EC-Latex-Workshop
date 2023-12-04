@@ -19,7 +19,7 @@
 
 - Overleaf has many templates for document types created by users. This cuts down significantly on the amount of time you spend messing with formatting reports, proposals, etc.
 
-- Many publishers (including Elsevier and Taylor & Francis) provide LaTeX templates that include their preferred article class and citation styles. Some specific journals provide specific LaTeX templates as well.
+- Many publishers (including Elsevier, Taylor & Francis, MDPI) provide LaTeX templates that include their preferred article class and citation styles. Some specific journals provide specific LaTeX templates as well.
 
 - Technical reports, fact sheets, and presentation templates can be found. Once you find a technical report or presentation layout you like, it can be re-used frequently to cut down on future document formatting (Show the report template that Noah and Iree both have been re-using).
 
