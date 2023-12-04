@@ -40,7 +40,10 @@ _ If collaborators or co-authors are not comfortable providing comments in a PDF
 ## Part 2: Noah (Demonstrations of Basics)
 ### USU Thesis Template
 
-- Figures
-- Version History
-- BibTex/Citations
-- Submission
+- Document Overview
+- Formatting
+- Figures/Tables
+- Inserting PDF pages
+### Journal Article
+- Templates
+- Submission through Overleaf!
