@@ -35,7 +35,7 @@
 
 - LaTeX compiles PDFs, if creating Word documents is required the formatting can get wacky in the transfer.
 
-_ If collaborators or co-authors are not comfortable providing comments in a PDF document or Overleaf document (visual editor can be used for this – show – but is dependent on the technology comfort level of collaborator) However, comments can be tricky and require sharing word documents and then manually transferring the comments to Overleaf.
+- If collaborators or co-authors are not comfortable providing comments in a PDF document or Overleaf document (visual editor can be used for this – show – but is dependent on the technology comfort level of collaborator) However, comments can be tricky and require sharing word documents and then manually transferring the comments to Overleaf.
 
 ## Part 2: Noah (Demonstrations of Basics)
 ### USU Thesis Template
